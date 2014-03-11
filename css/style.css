@@ -71,3 +71,17 @@ ul.nav li a {
   max-width: 235px;
   max-height: 235px;
 }
+
+#selfie {
+  max-height: 200px;
+}
+
+#pic {
+  max-height: 450px;
+  max-width: 450px;
+}
+
+#beer_pic {
+  max-width: 450px;
+  max-height: 900px;
+}
