@@ -67,3 +67,7 @@ ul.nav li a {
   text-align: center;
 }
 
+#cohort {
+  max-width: 235px;
+  max-height: 235px;
+}
