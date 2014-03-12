@@ -1,11 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
-  background: #420600 url('http://treehouse-code-samples.s3.amazonaws.com/WWIsland1/stage4/img/bg-texture.jpg') repeat;
+  color: #e8e3dd;
+  background: #383534;
 }
 
 a {
-  color: #4FB69F;
+  color: #ffd01d;
   text-decoration: none;
 }
 
@@ -16,12 +16,12 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #B4C34F;
+  color: #ffd01d;
 }
 
 .btn {
-  color: #FAF3BC;
-  background: #4FB69F url('http://treehouse-code-samples.s3.amazonaws.com/WWIsland1/stage4/img/texture.png') no-repeat right top;
+  color: #ffd01d;
+  background: #46c2e0 url('http://treehouse-code-samples.s3.amazonaws.com/WWIsland1/stage4/img/texture.png') no-repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
   border-radius: 25px;
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #3ca6bf;
 }
 
 ul.nav {
@@ -44,7 +44,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: #ffb100;
 }
 
 #intro {
@@ -52,16 +52,16 @@ ul.nav li a {
 }
 
 #new-cupcakes img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #46c2e0;
   margin: 0 0 20px 0;
 }
 
 #featured-cupcake img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #46c2e0;
 }
 
 #copyright {
-  border-top: 8px solid #2A0400;
+  border-top: 8px solid #46c2e0;
   padding: 10px 0px;
   margin: 15px 0px;
   text-align: center;
@@ -75,9 +75,10 @@ ul.nav li a {
 #selfie {
   max-height: 200px;
   margin: 20px 0 0 0;
+  border: 8px solid #46c2e0;
 }
 
-#pic {
+.pic {
   max-height: 450px;
   max-width: 450px;
 }
