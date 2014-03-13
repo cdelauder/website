@@ -1,5 +1,5 @@
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Exo-2', sans-serif;
   color: #e8e3dd;
   background: #383534;
 }
@@ -81,6 +81,7 @@ ul.nav li a {
 .pic {
   max-height: 450px;
   max-width: 450px;
+  border: 8px solid #46c2e0;
 }
 
 #beer_pic {
