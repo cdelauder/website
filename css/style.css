@@ -22,8 +22,8 @@ h2 {
 .btn {
   color: #ffd01d;
   background: #46c2e0 url('http://treehouse-code-samples.s3.amazonaws.com/WWIsland1/stage4/img/texture.png') no-repeat right top;
-  padding: 15px 30px;
-  margin: 40px 0px;
+  padding: 1.8% 3%;
+  margin: 40% 0%;
   border-radius: 25px;
   text-transform: uppercase;
 }
@@ -33,14 +33,14 @@ h2 {
 }
 
 ul.nav {
-  margin: 40px 0 0 0;
+  margin: 4% 0 0 0;
   list-style: none;
   float: right;
 }
 
 ul.nav li {
   float: left;
-  margin-right: 60px;
+  margin-right: 3em;
 }
 
 ul.nav li a {
@@ -48,52 +48,49 @@ ul.nav li a {
 }
 
 #intro {
-  margin: 20px 0 50px 0;
+  margin: .1% 0 2.5% 1.5%;
 }
 
 #new-cupcakes img {
-  border: 8px solid #46c2e0;
-  margin: 0 0 20px 0;
+  border: .5em solid #46c2e0;
+  margin: 0 0 4.44% 0;
 }
 
 #featured-cupcake img {
-  border: 8px solid #46c2e0;
+  border: .5em solid #46c2e0;
 }
 
 #copyright {
-  border-top: 8px solid #46c2e0;
-  padding: 10px 0px;
-  margin: 15px 0px;
+  border-top: .5em solid #46c2e0;
+  padding: 1% 0px;
+  margin: 1.5% 0px;
   text-align: center;
 }
 
 #cohort {
-  margin: 20px 0 20px 20px;
-  max-width: 300px;
-  max-height: 300px;
+  margin: 6.667% 0 6.667% 6.667%;
+  max-width: 74%;
 }
 
 #selfie {
-  max-height: 200px;
-  margin: 20px 0 0 0;
-  border: 8px solid #46c2e0;
+  max-width: 100%;
+  margin: 2% 0 0 0;
+  border: .5em solid #46c2e0;
 }
 
 .pic {
-  max-height: 450px;
-  max-width: 450px;
-  border: 8px solid #46c2e0;
+  max-width: 94%;
+  border: .5em solid #46c2e0;
 }
 
 #beer_pic {
-  max-width: 490px;
-  max-height: 940px;
+  max-width: 94%;
 }
 
 #red_admiral {
-  margin: 20px 0 0 0;
+  margin: 2% 0 0 0;
 }
 
 #curling {
-  margin: 20px 0 20px 0px;
+  margin: 2% 0 2% 0px;
 }
