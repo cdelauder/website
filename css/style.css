@@ -94,3 +94,42 @@ ul.nav li a {
 #curling {
   margin: 2% 0 2% 0px;
 }
+
+@media screen and (max-width: 500px) {
+    .grid_1,
+    .grid_2,
+    .grid_3,
+    .grid_4,
+    .grid_5,
+    .grid_6,
+    .grid_7,
+    .grid_8,
+    .grid_9,
+    .grid_10,
+    .grid_11,
+    .grid_12 {
+      width: 100%;
+      margin: 0 2% 1% 1%;
+      float: left;
+      display: block;
+      text-align: center;
+  }
+
+  ul.nav li {
+    margin: 1.4em 1.11em 1.4em 0;
+    display:block;
+    background: #46c2e0;
+    padding: 1.8% 3%;
+    border-radius: 25px
+  }
+
+  .selfie {
+    margin: 0;
+  }
+
+  #kitchen {
+    display: none;
+  }
+}
+
+@media screen and (max-width: )
